@@ -126,6 +126,6 @@ if (escalon_actual >= 30) {                    // salio del bucle
     alert("No llegaste a la meta")
 }
 
-console.log ("mejor racha subida: " + mejor_racha_subida)
-console.log ("mejor racha bajada: " + mejor_racha_bajada)
+alert ("Mejor racha subida: " + mejor_racha_subida)
+alert ("Peor racha bajada: " + mejor_racha_bajada)
 
